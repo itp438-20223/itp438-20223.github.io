@@ -1,0 +1,56 @@
+$callouts: (
+    note: ($blue-300, rgba($blue-000, .2), 'NOTE'),
+    warn: ($yellow-300, rgba($yellow-000, .2), 'WARNING'),
+    danger: ($red-300, rgba($red-000, .2), 'DANGER'),
+    test: ($green-300, rgba($green-000, .2), 'TEST IT!')
+);
+
+@each $class, $props in $callouts {
+    .#{$class} {
+        background: nth($props, 2);
+        border-left: $border-radius solid nth($props, 1);
+        border-radius: $border-radius;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+        padding: .8rem;
+
+        &::before {
+            color: nth($props, 1);
+            content: nth($props, 3);
+            display: block;
+            font-weight: bold;
+            font-size: .75em;
+            padding-bottom: .125rem;
+        }
+    }
+}
+
+.main-content img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.main-content pre {
+  tab-size: 4
+}
+
+a[href="#spoiler"] {
+  text-decoration: none !important;
+  cursor: default;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #FFF8DC;
+  border-left: 4px solid #ffeb8e;
+  display: inline-block;
+}
+a[href="#spoiler"]::after {
+  content: attr(title);
+  color: #FFF8DC;
+  padding: 0 0.5em;
+}
+a[href="#spoiler"]:hover::after,
+a[href="#spoiler"]:active::after {
+  cursor: auto;
+  color: black;
+  transition: color .5s ease-in-out;
+}
