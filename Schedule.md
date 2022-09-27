@@ -27,7 +27,7 @@ This course does not support remote attendance. Lectures will not be recorded or
 |        |  9/21   | **Flipped Classroom**: [Live Coding - Animations](https://youtu.be/BI-WNN20X6E) (30:35)<br /><br />**[Assignment 5 - Dashing and Damage](05.html)** | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167614) due end of class |
 | **6**  |  9/26   | Lecture: Unreal Motion Graphics UI ([PPT](https://docs.google.com/presentation/d/1fZoZJcBpKWC5_TePrNWUdv8JP1bmFh7l/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/107AgrIFscRZIwmdrP0KexkFYb1_Bru1Q/view?usp=sharing)) | Assignment 5 due 9/27 @ 11:59PM                              |
 |        |  9/28   | **Flipped Classroom**: [Live Coding - UMG](https://youtu.be/-Yze7kwlvlA) (34:37)<br /><br />**[Assignment 6 - UI](06.html)** | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167615) due end of class |
-| **7**  |  10/3   | **Lecture**: Topic TBD (PPT) (PDF)<br /><br />**Start [Midterm Exam](Midterm.html)** (take home coding) | Assignment 6 due 10/4 @ 11:59PM                              |
+| **7**  |  10/3   | **Lecture**: Materials and Rendering ([PPT](https://docs.google.com/presentation/d/1fmuFpuwkCNcFUOrvmNGyimMQfrn9oUXb/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/10n-qmSQUzNAL8x3v7MglGSbb78WZvDal/view?usp=sharing))<br /><br />**Start [Midterm Exam](Midterm.html)** (take home coding) | Assignment 6 due 10/4 @ 11:59PM                              |
 |        |  10/5   | **No Class!** (*Work on the Midterm*)                        |                                                              |
 | **8**  |  10/10  | **Lecture**: Nav Mesh; AI Controllers; Behavior Trees (PPT) (PDF) | **Midterm DUE 10/11 @ 11:59PM**                              |
 |        |  10/12  | **Flipped Classroom**: Live Coding - Behavior Trees (38:27)<br /><br />[**Assignment 7 - Behavior Trees**](07.html) | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167616) due end of class |
@@ -41,9 +41,9 @@ This course does not support remote attendance. Lectures will not be recorded or
 |        |  11/9   | **Flipped Classroom**: Live Coding - Listen Server and Main Menu (35:53)<br /><br />[**Assignment 11 - Steam**](11.html) | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167620) due end of class |
 | **13** |  11/14  | **Lecture**: Cooking; Serialization; Save/Load (PPT) (PDF)   | Assignment 11 due 11/15 @ 11:59PM                            |
 |        |  11/16  | **Flipped Classroom**: Live Coding - Decal Tags (46:20)<br /><br />**[Assignment 12 - Tags and Save/Load](12.html)** | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167621) due end of class |
-| **14** |  11/21  | **Lecture**: Materials and Rendering (PPT) (PDF)             |                                                              |
+| **14** |  11/21  | **Lecture**: Plugins (PPT) (PDF)                             |                                                              |
 |        |  11/23  | **No Class!** (*Thanksgiving Holiday*)                       |                                                              |
-| **15** |  11/28  | **Lecture**: Plugins (PPT) (PDF)                             |                                                              |
+| **15** |  11/28  | **Lecture**: Topic TBD (PPT) (PDF)                           |                                                              |
 |        |  11/30  | **Lecture**: Topic TBD (PPT) (PDF)                           | Assignment 12 due Friday, December 2 @ 11:59PM               |
 |        |         | **[Final Exam](Final.html)** (take home coding)              | **Final DUE Friday, December 9 @ 11:59PM**                   |
 
