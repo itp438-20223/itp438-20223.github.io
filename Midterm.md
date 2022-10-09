@@ -129,7 +129,7 @@ In your grading `midterm` folder make a `part2` sub-folder. Please submit the fo
     - Crouching while still, the indicator is green
     - Moving while crouching, and 0.5s after stopping movement, the indicator is yellow
     - When prone, the indicator is green
-- ***Any source files*** you modified to implement the prone logic. You don't need to submit any screenshots of blueprints, we just want the .h and .cpp files you changed.
+- ***Any source files*** you modified to implement the stealth indicator logic. You don't need to submit any screenshots of blueprints, we just want the .h and .cpp files you changed.
 
 Please double-check that you submitted the required files!
 
