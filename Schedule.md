@@ -41,9 +41,9 @@ This course does not support remote attendance. Lectures will not be recorded or
 |        |  11/9   | **Flipped Classroom**: [Live Coding - Listen Server and Main Menu](https://youtu.be/easp8lj9X7I) (35:53)<br /><br />[**Assignment 11 - Steam**](11.html) | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167620) due end of class |
 | **13** |  11/14  | **Lecture**: Cooking; Serialization; Save/Load ([PPT](https://docs.google.com/presentation/d/1fkA68IFmQ3U0gNH8mzsB3DYFvyXKfP9T/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/1ELNQXzyUeMeIrhGpQwZgbQik8IVH9aeM/view?usp=sharing)) | Assignment 11 due 11/15 @ 11:59PM                            |
 |        |  11/16  | **Flipped Classroom**: [Live Coding - Decal Tags](https://www.youtube.com/watch?v=Qow5fGvWpN0) (46:20)<br /><br />**[Assignment 12 - Tags and Save/Load](12.html)** | [Gradescope](https://www.gradescope.com/courses/419013/assignments/2167621) due end of class |
-| **14** |  11/21  | **Lecture**: Plugins (PPT) (PDF)                             |                                                              |
+| **14** |  11/21  | **Lecture**: Gameplay Ability System; Plugins ([PPT](https://docs.google.com/presentation/d/1f8AyxiBIrcQsFo59IOXJR4xicodes8Nl/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/1F1vDzqK1_zkrbd0L-c24ooVCYRhxkIPh/view?usp=sharing)) |                                                              |
 |        |  11/23  | **No Class!** (*Thanksgiving Holiday*)                       |                                                              |
-| **15** |  11/28  | **Lecture**: Topic TBD (PPT) (PDF)                           |                                                              |
+| **15** |  11/28  | **Lecture**: Guest Lecture on Coroutines and Unreal (PPT) (PDF) |                                                              |
 |        |  11/30  | **Lecture**: Topic TBD (PPT) (PDF)                           | Assignment 12 due Friday, December 2 @ 11:59PM               |
 |        |         | **[Final Exam](Final.html)** (take home coding)              | **Final DUE Friday, December 9 @ 11:59PM**                   |
 
