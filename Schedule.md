@@ -44,7 +44,7 @@ This course does not support remote attendance. Lectures will not be recorded or
 | **14** |  11/21  | **Lecture**: Gameplay Ability System; Plugins ([PPT](https://docs.google.com/presentation/d/1f8AyxiBIrcQsFo59IOXJR4xicodes8Nl/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/1F1vDzqK1_zkrbd0L-c24ooVCYRhxkIPh/view?usp=sharing)) |                                                              |
 |        |  11/23  | **No Class!** (*Thanksgiving Holiday*)                       |                                                              |
 | **15** |  11/28  | **Lecture**: Guest Lecture on Coroutines and Unreal (PPT) (PDF) |                                                              |
-|        |  11/30  | **Lecture**: Topic TBD (PPT) (PDF)                           | Assignment 12 due Friday, December 2 @ 11:59PM               |
+|        |  11/30  | **Lecture**: New Gameplay Features in Unreal 5.0/5.1 ([PPT](https://docs.google.com/presentation/d/1FQgYoL4CShl9cVqWYTzknNCNivbkfOQW/edit?usp=sharing&ouid=102527349157656217993&rtpof=true&sd=true)) ([PDF](https://drive.google.com/file/d/1FxROc74Mab2zDWVEdh34I1VVPAIm54Bu/view?usp=sharing)) | Assignment 12 due Friday, December 2 @ 11:59PM               |
 |        |         | **[Final Exam](Final.html)** (take home coding)              | **Final DUE Friday, December 9 @ 11:59PM**                   |
 
 ## Lectures
