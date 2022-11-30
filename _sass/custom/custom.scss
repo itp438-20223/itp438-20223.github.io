@@ -34,6 +34,14 @@ $callouts: (
   tab-size: 4
 }
 
+.main-content th {
+  min-width: 60px;
+}
+
+.main-content td {
+  min-width: 60px;
+}
+
 a[href="#spoiler"] {
   text-decoration: none !important;
   cursor: default;
