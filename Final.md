@@ -70,7 +70,7 @@ Here are some implementation details and notes:
     - `bShouldBounce` = true
     - `Bounciness` = 0.3f
     - `ProjectileGravityScale` = 1.5f
-  - Needs to be setup to replicate and replicate movement
+    - Needs to be setup to replicate and replicate movement
 - For the blueprint subclass of your grenade, add a Cylinder static mesh as a child of the root component and set its scale to `(0.1, 0.1, 0.15)`
 - When spawning the grenade, you should roll the grenade 90 degrees so it fires on its side
 - When the grenade is fired, there's a 5 second cooldown that prevents the grenade from being fired again, and the HUD should update with the "Grenade" indicator as noted
